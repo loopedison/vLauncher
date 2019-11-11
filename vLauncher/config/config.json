@@ -1,0 +1,32 @@
+{
+    "GAMELIST": [
+        {
+            "GameName": "最终小队", 
+            "GamePath": "C:\\vGames\\TheLastTeamZ_20180614\\TheLastTeamZ.exe"
+        }, 
+        {
+            "GameName": "GameName", 
+            "GamePath": "C:\\vGames\\战火2_银河战队_20180816\\战火2.exe"
+        }
+    ], 
+    "SERVERLIST": [
+        {
+            "ServerName": "Server1", 
+            "ServerIP": "192.168.1.100"
+        }, 
+        {
+            "ServerName": "Server2", 
+            "ServerIP": "192.168.1.101"
+        }, 
+        {
+            "ServerName": "Server3", 
+            "ServerIP": "192.168.1.102"
+        }, 
+        {
+            "ServerName": "Server4", 
+            "ServerIP": "192.168.1.103"
+        }
+    ], 
+    "Language": "English", 
+    "ServerPort": "9527"
+}
